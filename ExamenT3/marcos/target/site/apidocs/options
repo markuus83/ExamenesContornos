@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/vagrant/Desktop/ExamenesContornos/ExamenT3/marcos/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vagrant/Desktop/ExamenesContornos/ExamenT3/marcos/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'marcos 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'marcos 1.0-SNAPSHOT API'

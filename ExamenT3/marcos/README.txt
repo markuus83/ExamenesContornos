@@ -1,0 +1,2 @@
+El ejercicio en sí está bien hecho, el 'pom.xml' está bien estructurado, pero al ser un sistema operativo distinto al que tenemos en clase, da errores, pero, el ejercicio en sí está bien.
+Falta poner los comandos, que no lo valida.
